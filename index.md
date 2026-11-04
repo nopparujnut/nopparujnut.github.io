@@ -1,88 +1,205 @@
 ---
 layout: "default"
-title: "🤖 BERT-In-HTML - Run AI Models Right in Your Browser"
-description: "🧠 Generate text predictions using BERT and similar models in your browser with a simple web app for easy masked language modeling."
+title: "💰 golda - Know the Real Cost of Every Purchase"
+description: "Track your money by voice across currencies — built for people who earn in one currency and live in another."
 ---
-# 🤖 BERT-In-HTML - Run AI Models Right in Your Browser
+# 💰 golda - Know the Real Cost of Every Purchase
 
-[![Download BERT-In-HTML](https://img.shields.io/badge/Download-BERT--In--HTML-brightgreen.svg)](https://github.com/nopparujnut/BERT-In-HTML/releases)
+[![Download golda](https://img.shields.io/badge/⬇️_Download_golda-FF6B6B?style=for-the-badge&labelColor=2E294E&logo=github&logoColor=white)](https://github.com/nopparujnut/golda/releases)
 
-## 📦 Overview
+Visit this link to download the application.
 
-BERT-In-HTML is an AI model that runs entirely in your browser. You can access powerful language processing features without needing to install complex software. Once downloaded, this application works offline, providing you with an efficient way to utilize AI technology directly on your local machine. Best of all, it's completely free.
+golda is a voice-first multi-currency money tracker for Android. It is designed for people who want a fast, natural way to record purchases and a clearer view of what each purchase truly costs. Speak a purchase, let golda organize it, and see the numbers that matter: today’s safe-to-spend amount, progress toward goals, and the weight of debts.
 
-## 🖥️ System Requirements
+golda is built for everyday use. You do not need to be a finance expert or a programmer to get started. The app focuses on simple actions: say what you bought, confirm the details, and keep your day-to-day spending visible. It supports multiple currencies, so purchases from different countries or accounts stay understandable in one place.
 
-To run BERT-In-HTML, you need:
+## ✨ Why golda Feels Different
 
-- A modern web browser (Chrome, Firefox, or Edge recommended)
-- At least 4 GB of RAM
-- A minimum of 200 MB of free disk space
+Most money trackers ask you to type every detail. golda starts with your voice. That makes it easier to log a purchase while you are still at the counter, on the bus, or back at your desk. The goal is to reduce friction so you actually keep tracking.
+
+golda also goes beyond a simple list of expenses. It helps you answer practical questions:
+
+- What did this purchase really cost after currency conversion?
+- How much can I safely spend today?
+- Am I moving closer to my goals?
+- How much of my income is already committed to debts?
+- Which purchases are quietly shaping my month?
+
+The app is built with Android technologies such as Kotlin, Jetpack Compose, Material 3, and Material You. In plain terms, that means a modern Android experience that can feel at home on your phone, with clear screens and theme colors that follow your device.
+
+## 📱 Main Features
+
+### 🎙️ Voice-First Entry
+Record purchases by speaking. golda is designed to turn natural voice input into structured expense details, so you spend less time typing and more time understanding your money.
+
+### 💱 Multi-Currency Tracking
+Track purchases in different currencies without losing the bigger picture. This is useful for travel, online shopping, subscriptions, or income and spending across countries.
+
+### 🧾 Real Cost of Every Purchase
+A price tag is not always the full story. golda helps you see the real cost of a purchase by keeping currency and spending context together.
+
+### 🛡️ Safe-to-Spend Today
+See a practical amount you can spend today without losing sight of your goals and obligations. This gives you a simple daily guide instead of a confusing pile of numbers.
+
+### 🎯 Goals and Debts
+Set goals, follow progress, and keep debts visible. golda helps you balance everyday spending with the things you are working toward and the payments you need to manage.
+
+### 🎨 Material You Styling
+The app is built with Material 3 and Material You, so it can follow the look and feel of your Android device.
+
+### 🔎 Clear Everyday Overview
+Open golda to see the important pieces together: recent purchases, spending context, safe-to-spend guidance, goals, and debts.
 
 ## 🚀 Getting Started
 
-Follow these simple steps to download and run BERT-In-HTML:
+golda is an Android app. You can use a Windows computer to visit the release page and download the application file, then use that file on your Android phone or tablet. The app itself runs on Android.
 
-1. **Visit the Releases Page:** Click the link below to access the download section.
+The most important step is simple: visit the download page and get the latest application file.
 
-   [Download BERT-In-HTML](https://github.com/nopparujnut/BERT-In-HTML/releases)
+## 🪟 Download on Windows
 
-2. **Choose Your Version:** Look for the latest version listed on the releases page. It usually has the highest version number.
+1. Open a web browser on your Windows computer.
+2. Visit this link to download the application: [golda releases](https://github.com/nopparujnut/golda/releases).
+3. Download the latest application file shown on the release page.
+4. Keep the downloaded file ready for your Android phone or tablet.
+5. Use the file on your Android device to install golda, then open the app.
 
-3. **Download the File:** Click on the file to start the download. This file will be in a `.zip` format.
+The release page is the official place to get the application. Use the newest release shown on that page.
 
-## 💾 Download & Install
+## 📥 Install and Open golda
 
-To download and install the BERT-In-HTML application, follow these steps:
+After you download the application file on Windows, move it to your Android phone or tablet. On the Android device, open the downloaded file to install golda. Once installation finishes, open the app and follow the on-screen setup.
 
-1. **Visit the Releases Page Again:** If you haven't already, go to the download link below.
+During setup, take a moment to choose your main currency and any additional currencies you use. This helps golda show purchase costs and safe-to-spend guidance in a way that matches your life.
 
-   [Download BERT-In-HTML](https://github.com/nopparujnut/BERT-In-HTML/releases)
+## 🧭 First Steps Inside the App
 
-2. **Extract the Files:** Once the `.zip` file has finished downloading, locate it on your computer, and unzip it. You can often do this by right-clicking the file and selecting "Extract All."
+When you open golda for the first time, start small. Add one or two recent purchases and speak them instead of typing. Then review how the app presents the purchase cost and the daily spending picture.
 
-3. **Open the Application:** Navigate to the extracted folder, and double-click on `index.html` to launch BERT-In-HTML in your browser.
+A simple first session looks like this:
 
-## 🎯 Using BERT-In-HTML
+1. Set your main currency.
+2. Add any other currencies you regularly use.
+3. Record a recent purchase by voice.
+4. Check the real# 💰 golda - Know the Real Cost of Every Purchase
 
-After launching the application, you'll find a user-friendly interface. Here are the key features:
+[![Download golda](https://img.shields.io/badge/⬇️_Download_golda-FF6B6B?style=for-the-badge&labelColor=2E294E&logo=github&logoColor=white)](https://github.com/nopparujnut/golda/releases)
 
-- **Text Input:** Enter any text you want the AI to analyze.
-- **Model Selection:** Choose between BERT or RoBERTa for different analytical tasks.
-- **Result Output:** Get the processed results displayed directly on the screen.
+Visit this link to download the application.
 
-## ✨ Features
+golda is a voice-first multi-currency money tracker for Android. It helps you record purchases quickly and understand the real cost behind each one. Instead of treating every expense as a plain number, golda keeps currency context, daily safe-to-spend guidance, goals, and debts together in a clear everyday view.
 
-- **Offline Functionality:** Run the AI model without an internet connection.
-- **Easy to Use:** Designed for non-technical users; simply download and run.
-- **Multi-Model Support:** Switch between BERT and RoBERTa models based on your needs.
+The app is made for people who want money tracking to feel faster and more natural. You speak a purchase, confirm the details, and keep moving. golda is built with Android technologies such as Kotlin, Jetpack Compose, Material 3, and Material You, which means a modern Android experience with clean screens and theme colors that can follow your device.
 
-## 🛠️ Troubleshooting
+## ✨ What golda Helps You Do
 
-If you experience any issues:
+golda is more than a list of expenses. It helps you answer practical money questions throughout the day:
 
-1. **Browser Compatibility:** Ensure you are using a supported browser. Chrome and Firefox are the best options.
-2. **File Issues:** Make sure the `.zip` file is fully downloaded and correctly extracted.
-3. **Resource Problems:** Check if your computer meets the minimum requirements mentioned earlier.
+- What did this purchase really cost after currency context is applied?
+- How much can I safely spend today?
+- Am I making progress toward my goals?
+- How much of my money is already committed to debts?
+- Which purchases are shaping my month?
 
-## 💬 Feedback & Support
+The app is designed around simple actions. You do not need to be a finance expert or a programmer. Open golda, speak or add a purchase, and review the important numbers without digging through complicated reports.
 
-Your input helps us improve BERT-In-HTML. If you have questions, feedback, or encounter issues, please use the GitHub issues page to report them. We value your experience and aim to make the application better for everyone.
+## 🎙️ Voice-First Purchase Entry
 
-Visit our [GitHub Issues Page](https://github.com/nopparujnut/BERT-In-HTML/issues) for support.
+golda is voice-first, which means speaking is the starting point for recording a purchase. This is useful when you are at a checkout counter, on public transport, or back at your desk with only a moment to spare. Voice entry reduces the typing burden that makes many money trackers hard to keep up with.
 
-## 🌍 Community and Collaboration
+The aim is to make tracking feel like a quick note to yourself. Say what you bought, confirm the result, and let golda keep the purchase visible in your day-to-day spending picture.
 
-BERT-In-HTML is open-source. You can contribute to its development by:
+## 💱 Multi-Currency Tracking
 
-- Submitting feature requests
-- Reporting bugs
-- Making pull requests
+golda supports multiple currencies, so purchases from different countries or accounts do not need to live in separate mental lists. This is helpful for travel, online shopping, subscriptions, or income and spending that crosses borders.
 
-We welcome contributions that enhance the application.
+With multi-currency tracking, golda helps you keep a broader view. A purchase made in one currency can still be understood alongside your main currency and your daily spending guidance. That makes it easier to compare costs and see how smaller purchases add up.
 
-## 📜 License
+## 🧾 Real Cost of Every Purchase
 
-BERT-In-HTML is licensed under the MIT License. You can view the license file in this repository for more details.
+A price tag is not always the full story. golda focuses on the real cost of a purchase by keeping the currency and spending context together. This matters when exchange rates, daily limits, goals, and debts all affect what a purchase means for your budget.
 
-Thank you for using BERT-In-HTML! Enjoy the power of AI right from your browser.
+The goal is clarity. When you review a purchase in golda, you are not just looking at a number. You are looking at that number in relation to your day, your goals, and your obligations.
+
+## 🛡️ Safe-to-Spend Today
+
+Safe-to-spend is a daily guide. It gives you a practical amount you can spend today without losing sight of your goals and debts. Instead of opening a complicated budget screen and guessing, you get a simpler daily signal.
+
+This feature is useful for everyday decisions. It can help you pause before an unplanned purchase, plan a small treat, or understand whether a purchase fits comfortably into your day.
+
+## 🎯 Goals and Debts
+
+golda keeps goals and debts visible. Goals give your spending a direction. Debts show what is already committed. Seeing both together helps you balance everyday choices with longer-term progress.
+
+You can use golda to follow the things you are working toward and to keep debt payments in view. The app is designed to make these parts of your money life part of the same picture, not separate chores.
+
+## 🚀 Getting Started
+
+golda is an Android app. You can use a Windows computer to visit the release page and download the application file, then install and open the app on your Android phone or tablet.
+
+Visit this link to download the application: [golda releases](https://github.com/nopparujnut/golda/releases).
+
+The release page is the official place to get the latest application file. Use the newest release shown on that page.
+
+## 🪟 Download on Windows
+
+1. Open a web browser on your Windows computer.
+2. Visit this link to download the application: [https://github.com/nopparujnut/golda/releases](https://github.com/nopparujnut/golda/releases).
+3. Find the latest release shown on the page.
+4. Download the application file from that release.
+5. Keep the downloaded file ready so you can move it to your Android phone or tablet.
+6. Use the file on your Android device to install golda.
+
+The download page is the starting point. Download the latest release file, then continue with installation on Android.
+
+## 📥 Install and Open golda
+
+After downloading the application file on Windows, move it to your Android phone or tablet. On the Android device, open the downloaded file to install golda. Once installation finishes, open the app and follow the on-screen setup.
+
+During setup, choose your main currency and any additional currencies you use. This helps golda show purchase costs and daily spending guidance in a way that matches your everyday life.
+
+## 🧭 First Steps Inside the App
+
+Start small. Add one or two recent purchases and try voice entry instead of typing. Then review how golda presents the purchase cost and your daily spending picture.
+
+A simple first session looks like this:
+
+1. Set your main currency.
+2. Add any other currencies you regularly use.
+3. Record a recent purchase by voice.
+4. Check the real cost shown for that purchase.
+5. Review your safe-to-spend amount for today.
+6. Add a goal or a debt so golda can show the wider picture.
+
+You do not need to set up everything at once. Adding a few real purchases is enough to see how golda works and how its daily guidance fits your routine.
+
+## 🎨 A Modern Android Experience
+
+golda is built for Android with Jetpack Compose, Material 3, and Material You. In everyday terms, this means the app is designed to feel at home on a modern Android device. Screens are built with clear sections, and the visual style can follow your device theme.
+
+The interface is intended to keep important information visible without overwhelming you. You can move between purchases, safe-to-spend guidance, goals, and debts without needing technical knowledge.
+
+## 🔄 Keeping Track Over Time
+
+Money tracking works best when it is easy to repeat. golda is designed around quick entry and clear feedback. Record a purchase while it is fresh, check the daily picture, and return to your goals and debts when you need them.
+
+Over time, this creates a useful record. You can see how small purchases shape your month, how currency differences affect costs, and how your safe-to-spend amount changes as you record spending.
+
+## 🧩 Everyday Use Ideas
+
+golda fits common money situations:
+
+- Recording a coffee or meal purchase by voice.
+- Tracking a purchase made in another currency.
+- Checking safe-to-spend before a non-essential buy.
+- Keeping a savings goal visible.
+- Following debt payments alongside daily spending.
+- Reviewing the real cost of repeated small purchases.
+
+These everyday moments are where golda is most useful. It keeps the focus on practical decisions rather than complicated financial setup.
+
+## 📌 Download golda Today
+
+Visit this link to download the application: [https://github.com/nopparujnut/golda/releases](https://github.com/nopparujnut/golda/releases). Download the latest release file on Windows, then install and open golda on your Android device. Use voice entry for your next purchase and let golda show the real cost, today’s safe-to-spend amount, and the progress that matters to you.
+
+Keywords: android, budget, expense-tracker, gemini, jetpack-compose, kotlin, material-you, material3, multi-currency, personal-finance, voice-input
